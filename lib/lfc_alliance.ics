@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+DTEND;VALUE=DATE-TIME:20150412T214500Z
+DTSTART;VALUE=DATE-TIME:20150412T195000Z
+UID:LAUR-Lions-Blue-021428870600@tullinahoo.com
+DESCRIPTION:LAUR Lions Blue 02 vs. LFC Alliance  at  Maryland SoccerPlex 
+ #19a .\n Kickoff is 4:30 PM.\nArrive 40 minutes early and ready to warm-
+ up.
+SUMMARY:LAUR Lions Blue 02 vs. LFC Alliance
+LOCATION: Maryland SoccerPlex #19a 
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE-TIME:20150418T191500Z
+DTSTART;VALUE=DATE-TIME:20150418T172000Z
+UID:GSC-Premier-Red-021429380000@tullinahoo.com
+DESCRIPTION:GSC Premier Red 02 vs. LFC Alliance  at  Grist Mill Park #4C 
+ (U9-12) .\n Kickoff is 2:00 PM.\nArrive 40 minutes early and ready to wa
+ rm-up.
+SUMMARY:GSC Premier Red 02 vs. LFC Alliance
+LOCATION: Grist Mill Park #4C (U9-12) 
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE-TIME:20150419T131500Z
+DTSTART;VALUE=DATE-TIME:20150419T112000Z
+UID:LFC-Alliance1429444800@tullinahoo.com
+DESCRIPTION:LFC Alliance vs. PWSI Courage 02 Black  at  Leesburg F.C. Com
+ plex (KMO) Leesburg F. C. Complex #1 .\n Kickoff is 8:00 AM.\nArrive 40 
+ minutes early and ready to warm-up.
+SUMMARY:LFC Alliance vs. PWSI Courage 02 Black
+LOCATION: Leesburg F.C. Complex (KMO) Leesburg F. C. Complex #1 
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE-TIME:20150426T194500Z
+DTSTART;VALUE=DATE-TIME:20150426T175000Z
+UID:LFC-Alliance1430073000@tullinahoo.com
+DESCRIPTION:LFC Alliance vs. LFC Revolution  at  Leesburg F.C. Complex (K
+ MO) Leesburg F. C. Complex #1 .\n Kickoff is 2:30 PM.\nArrive 40 minutes
+  early and ready to warm-up.
+SUMMARY:LFC Alliance vs. LFC Revolution
+LOCATION: Leesburg F.C. Complex (KMO) Leesburg F. C. Complex #1 
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE-TIME:20150503T171500Z
+DTSTART;VALUE=DATE-TIME:20150503T152000Z
+UID:SYA-Cardinals-'02-White1430668800@tullinahoo.com
+DESCRIPTION:SYA Cardinals '02 White vs. LFC Alliance  at  SYA Complex #3A
+  .\n Kickoff is 12:00 PM.\nArrive 40 minutes early and ready to warm-up.
+SUMMARY:SYA Cardinals '02 White vs. LFC Alliance
+LOCATION: SYA Complex #3A 
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE-TIME:20150510T171500Z
+DTSTART;VALUE=DATE-TIME:20150510T152000Z
+UID:LFC-Alliance1431273600@tullinahoo.com
+DESCRIPTION:LFC Alliance vs. TAFC Team America 02 Blue  at  Leesburg F.C.
+  Complex (KMO) Leesburg F. C. Complex #1 .\n Kickoff is 12:00 PM.\nArriv
+ e 40 minutes early and ready to warm-up.
+SUMMARY:LFC Alliance vs. TAFC Team America 02 Blue
+LOCATION: Leesburg F.C. Complex (KMO) Leesburg F. C. Complex #1 
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE-TIME:20150517T161500Z
+DTSTART;VALUE=DATE-TIME:20150517T142000Z
+UID:CPSA-Culpeper-Comets-021431874800@tullinahoo.com
+DESCRIPTION:CPSA Culpeper Comets 02 vs. LFC Alliance  at  Culpeper Comple
+ x #5 .\n Kickoff is 11:00 AM.\nArrive 40 minutes early and ready to warm
+ -up.
+SUMMARY:CPSA Culpeper Comets 02 vs. LFC Alliance
+LOCATION: Culpeper Complex #5 
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE-TIME:20150531T141500Z
+DTSTART;VALUE=DATE-TIME:20150531T122000Z
+UID:CSA-Calvert-Panthers-02-Black1433077200@tullinahoo.com
+DESCRIPTION:CSA Calvert Panthers 02 Black vs. LFC Alliance  at  Hallowing
+  Point Park Back 22 (Field 7) .\n Kickoff is 9:00 AM.\nArrive 40 minutes
+  early and ready to warm-up.
+SUMMARY:CSA Calvert Panthers 02 Black vs. LFC Alliance
+LOCATION: Hallowing Point Park Back 22 (Field 7) 
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE-TIME:20150607T234500Z
+DTSTART;VALUE=DATE-TIME:20150607T215000Z
+UID:LFC-Alliance1433716200@tullinahoo.com
+DESCRIPTION:LFC Alliance vs. MSC Academy 02 White  at  Leesburg F.C. Comp
+ lex (KMO) Leesburg F.C. Complex #2 .\n Kickoff is 6:30 PM.\nArrive 40 mi
+ nutes early and ready to warm-up.
+SUMMARY:LFC Alliance vs. MSC Academy 02 White
+LOCATION: Leesburg F.C. Complex (KMO) Leesburg F.C. Complex #2 
+END:VEVENT
+END:VCALENDAR
