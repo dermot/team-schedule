@@ -1,9 +1,9 @@
 require 'optparse'
-require_relative '../lib/ncsl_schedule'
+require_relative '../lib/team_schedule'
 
 options = {}
 OptionParser.new do |opts|
-  opts.banner = "Usage: ncsl_schedule_cron [options]"
+  opts.banner = "Usage: #{__FILE__} [options]"
 
   opts.on("-f","--config_file FILE",  "Path to the config file that defines the teams.") do |f|
     options[:config_file] = f
@@ -12,7 +12,8 @@ end.parse!
 
 
 teams = YAML.load_file(options[:config_file]).collect do |team_name, opts|
-  NCSLSchedule::Team.new(team_name, opts[:age], opts[:url], opts[:early_arrival_mins])
+  team = TeamSchedule::Team.new(team_name, opts[:age], opts[:url], opts)
+  #puts team.schedule('ics').to_ical
+  puts team.schedule('text').to_s
 end
 
-teams.each{|t| puts t.schedule}
